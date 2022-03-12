@@ -1,0 +1,25 @@
+{
+  "name": "start-bower123",
+  "authors": [
+    "DatDo <datdo200499@gmail.com>"
+  ],
+  "description": "Framgia standard ",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/datToc004/file_css_js_project1.git",
+  "ignore": [
+    "README.md"
+  ],
+  "_release": "d7d2b6bac8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d7d2b6bac837c785e8d2861bc41c66695b7014ab"
+  },
+  "_source": "https://github.com/datToc004/file_css_js_project1.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/datToc004/file_css_js_project1.git"
+}
